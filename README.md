@@ -26,6 +26,8 @@ Total de Palabras = 160
 Total de Palabras sin auxiliares = 87
 
 <-- Palabras Repetidas Por Número de Aparición -->
+
+
 1. de = 11
 2. página = 8
 3. wiki = 7
